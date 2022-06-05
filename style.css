@@ -63,3 +63,7 @@ footer:hover{
 img:hover{
     border: #EFF4BE solid 4px;
 }
+
+p{
+    color: #EFF4BE;
+}
