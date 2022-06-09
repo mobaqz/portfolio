@@ -56,15 +56,20 @@ header{
 
 footer{
     background-color: #718C55;
-    margin: 20px;
+    margin-right: 20px;
+    position: fixed;
+    width: 130px;
+    right: 30px;
+    top: 250px;
+    border-radius: 20px;
     padding: 20px;
 }
 
 footer:hover{
-    border: #93995C solid 4px;
-    padding: 16px;
+    background-color: #EFF4BE ;
+
 }
 
 img:hover{
-    border: #EFF4BE solid 4px;
+    border: #22221f solid 4px;
 }
