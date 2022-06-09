@@ -18,8 +18,12 @@ h1{
     color: #EFF4BE;
 }
 
-a:hover{
+h3:hover{
     color: #EFF4BE;
+}
+
+a:hover{
+    color: #2b311a;
 }
 
 a{
@@ -54,13 +58,11 @@ footer{
     background-color: #718C55;
     margin: 20px;
     padding: 20px;
-    display: flex;
-    justify-content: center;
-    border-radius: 20px;
 }
 
 footer:hover{
     border: #93995C solid 4px;
+    padding: 16px;
 }
 
 img:hover{
