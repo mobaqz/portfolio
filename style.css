@@ -47,19 +47,19 @@ img{
 main{
     background-color: #718C55;
     padding: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 140px;
+    margin-right: 140px;
 }
 
 header{
     background-color: #718C55;
     padding: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 140px;
+    margin-right: 140px;
 }
 
 footer{
-    background-color: #718C55;
+    background-color: #39462c;
     margin-right: 20px;
     position: fixed;
     width: 130px;
