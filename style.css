@@ -23,7 +23,7 @@ h3:hover{
     transition: 0.8s ease-out;
 }
 
-p{
+p:hover{
     color: #EFF4BE;
     transition: 0.8s ease-out;
 }
