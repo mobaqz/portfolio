@@ -85,7 +85,7 @@ footer:hover{
     opacity: 1;
     transition: 0.8s ease-out;
     width: 180px;
-    transform: translateX(-80px);
+    transform: scale(1.2);
 }
 
 img:hover{
