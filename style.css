@@ -20,6 +20,12 @@ h1{
 
 h3:hover{
     color: #EFF4BE;
+    transition: 0.8s ease-out;
+}
+
+p{
+    color: #EFF4BE;
+    transition: 0.8s ease-out;
 }
 
 a:hover{
@@ -77,8 +83,12 @@ footer{
 
 footer:hover{
     opacity: 1;
+    transition: 0.8s ease-out;
+    width: 180px;
+    transform: translateX(-80px);
 }
 
 img:hover{
-    border: #22221f solid 4px;
+    border: #22221f solid 6px;
+    transition: 0.3s ease-out;
 }
